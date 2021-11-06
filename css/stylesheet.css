@@ -30,7 +30,8 @@ body {
 }
 
 .menu ul li a:hover {
-    background:white;;
+    background:white;
+    transition: .3s;
 }
 
 .sub-menu {
@@ -39,10 +40,19 @@ body {
 
 .menu-item:hover .sub-menu {
     display: block;
+    position: absolute;
+    top: 50px;
+    background: darkgray;
+    width: 640px;
 }
 
 .container {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
+}
+
+.image {
+    margin-left: 200px;
+    padding: 15px;
 }
