@@ -5,6 +5,44 @@
     box-sizing: border-box;
 }
 
-.body {
-    background: red;
+body {
+    background: lightskyblue;
+}
+
+.menu ul {
+    list-style: none;
+}
+.menu > ul >li {
+    display:inline-block;
+    background: darkgray;
+    width: 25%;
+    position: relative;
+    vertical-align: top;
+    margin-left: -3px;
+    border-top: 7px solid darkcyan;
+}
+
+.menu ul li a {
+    color:black;
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.menu ul li a:hover {
+    background:white;;
+}
+
+.sub-menu {
+    display: none;
+}
+
+.menu-item:hover .sub-menu {
+    display: block;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
 }
