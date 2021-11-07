@@ -1,4 +1,4 @@
-# Assignment 4
+# Assignment 4 - Jourdan Dekle
 ## Fall 2021 Web Design Principles MMC5277
 
 ### For this assignment, I used the lectures and found three images from Google Images.
