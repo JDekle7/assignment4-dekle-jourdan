@@ -58,7 +58,11 @@ span {
     padding: 20px;
 }
 
-.image {
+.poster {
     margin-left: 200px;
     padding: 15px;
+}
+
+.aang {
+    float: left;
 }
