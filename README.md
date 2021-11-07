@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Assignment 4
 ## Fall 2021 Web Design Principles MMC5277
 
@@ -6,7 +5,4 @@
 
 ### I, Jourdan Dekle, have read the point deduction list and understand that I will lose points for missing items.
 
-![avatar-characters]()
-=======
-# assignment4-dekle-jourdan
->>>>>>> b825f62ea7bad4456e57c686c7c1fa3fb89bb878
+![avatar-characters](images/avatar2.jpg)
