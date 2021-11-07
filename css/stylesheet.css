@@ -66,3 +66,21 @@ span {
 .aang {
     float: left;
 }
+
+.appa {
+    position: absolute;
+    left: -500px;
+    animation-name: fly;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    animation-delay: 3s;
+}
+
+@keyframes fly {
+    from {
+        transform: translateX(-500px);
+    }
+    to {
+        transform: translateX(2200px);
+    }
+}
